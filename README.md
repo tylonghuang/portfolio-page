@@ -4,7 +4,7 @@ This is a minimalistic portfolio webpage with a terminal-like aesthetic.
 
 The live site can be found at [tylonghuang.com](https://www.tylonghuang.com).
 
-PREVIEW COMING SOON.
+![](/img/preview.png "Desktop View")
 
 ## Tools and technologies
 
