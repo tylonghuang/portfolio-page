@@ -1,19 +1,12 @@
 # About
 
-This is a minimalistic portfolio webpage with a terminal-like aesthetic.
-
-The live site can be found at [tylonghuang.com](https://www.tylonghuang.com).
+This is a minimalistic portfolio webpage with a terminal-like aesthetic built with [Hugo](https://gohugo.io/). The live site can be found at [tylonghuang.com](https://www.tylonghuang.com).
 
 ![](/img/preview.png "Desktop View")
 
-## Tools and technologies
+## Page Features
 
-- Static site with [Hugo](https://gohugo.io/)
-- Web hosting: [Netlify](https://www.netlify.com/)
-
-## Features
-
-✔ Minimal
+✔ Minimalist
 
 ✔ Responsive
 
@@ -21,6 +14,18 @@ The live site can be found at [tylonghuang.com](https://www.tylonghuang.com).
 
 ✔ Privacy-friendly
 
-## License
+## Usage
 
-Regarding the license, please check out the [original repository](https://github.com/Yukuro/hugo-theme-shell/blob/master/LICENSE) that was used as a basis for this page.
+In case you are interested in using this yourself or in developing this further, clone or fork this repo. To get the theme as a submodule, run:
+```
+$ git clone --recurse-submodules
+$ git submodule update --recursive --remote
+```
+Once you have set everything up, you can run the following to test the page locally:
+```
+$ hugo server -t hugo-theme-shell -w -D
+```
+
+## Credit
+
+... goes to all contributors of [hugo-theme-shell](https://github.com/Yukuro/hugo-theme-shell).
