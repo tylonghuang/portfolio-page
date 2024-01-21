@@ -22,7 +22,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: You can choose between
   # Note: hugo-theme-shell original: ["shell-powershell", "shell-ubuntu", "shell-retro"]
   # Note: gogh theme: https://mayccoll.github.io/Gogh/
-  scheme = "Dracula"
+  scheme = "Gooey"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
@@ -35,9 +35,9 @@ ignoreErrors = ["error-remote-getjson"]
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "long.ngyn"
+  userName = "lσng.ngyn"
   pcName = "pm.me"
-  workDir = "page"
+  workDir = "about"
   profile = "whoami.txt"
 
   # Note: speed at which text is displayed on the terminal
@@ -62,12 +62,12 @@ ignoreErrors = ["error-remote-getjson"]
   # activityDelay = 5 : deprecated
 
   description = """
-  Hello and welcome! I am Long, or 龙.
+  Hello and welcome! I am Long or 龙.
   
   Some facts about me:
-  - I am an IT Student at Uni Potsdam
-  - I am a Vietnamese born in Germany
-  - I am proficient in five languages
+  - I am researching Accountable AI @ KIT
+  - I am from Vietnam but live in Germany
+  - I am speaking at least five languages
   
   - I value sustainable development
   - I value innovative technologies
@@ -81,7 +81,7 @@ ignoreErrors = ["error-remote-getjson"]
 
   [Params.Tree]
   use = true
-  folderName = "links"
+  folderName = "contact"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["LinkedIn", "https://www.linkedin.com/in/long-hoang-nguyen-387171182/"],
