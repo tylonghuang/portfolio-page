@@ -81,7 +81,7 @@ ignoreErrors = ["error-remote-getjson"]
 
   [Params.Tree]
   use = true
-  folderName = "contact"
+  folderName = "links"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["LinkedIn", "https://www.linkedin.com/in/long-hoang-nguyen-387171182/"],
